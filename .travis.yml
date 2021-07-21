@@ -21,6 +21,3 @@ deploy:
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
   # language: generic 
-
-  # AWS Beanstalk user Access Key ID: AKIA5ACBYDQXU3QL4QP4
-  # AWS Beanstalk user Secret access key: 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
